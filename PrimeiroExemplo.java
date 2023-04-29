@@ -37,6 +37,7 @@ public class PrimeiroExemplo {
 		break;
 		case 10: System.out.println("Rei dos Piratas");
 		break;
+		default: System.out.println("Número inválido, escolha de 1 a 10");
 		}
 		
 		
@@ -44,3 +45,4 @@ public class PrimeiroExemplo {
 	}
 
 }
+
